@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingDifferentiatie", "BindingDifferentiatie\BindingDifferentiatie.csproj", "{A04B3C68-9786-4950-AD8D-8C855C8584ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A04B3C68-9786-4950-AD8D-8C855C8584ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04B3C68-9786-4950-AD8D-8C855C8584ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04B3C68-9786-4950-AD8D-8C855C8584ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04B3C68-9786-4950-AD8D-8C855C8584ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95FEA629-E958-471F-B98A-B9DF4DF94D1D}
+	EndGlobalSection
+EndGlobal

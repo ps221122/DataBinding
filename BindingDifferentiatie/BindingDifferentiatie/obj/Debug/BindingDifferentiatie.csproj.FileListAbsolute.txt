@@ -1,0 +1,30 @@
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\bin\Debug\BindingDifferentiatie.exe.config
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\bin\Debug\BindingDifferentiatie.exe
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\bin\Debug\BindingDifferentiatie.pdb
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.csproj.AssemblyReference.cache
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\MainWindow.g.cs
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\App.g.cs
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie_MarkupCompile.cache
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie_MarkupCompile.lref
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\MainWindow.baml
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.g.resources
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.Properties.Resources.resources
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.csproj.GenerateResource.cache
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.csproj.CoreCompileInputs.cache
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.exe
+C:\Users\keei\source\repos\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.pdb
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\bin\Debug\BindingDifferentiatie.exe.config
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\bin\Debug\BindingDifferentiatie.exe
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\bin\Debug\BindingDifferentiatie.pdb
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.csproj.AssemblyReference.cache
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\MainWindow.g.cs
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\App.g.cs
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie_MarkupCompile.cache
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie_MarkupCompile.lref
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\MainWindow.baml
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.g.resources
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.Properties.Resources.resources
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.csproj.GenerateResource.cache
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.csproj.CoreCompileInputs.cache
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.exe
+C:\school\periode 4 2021\applicatieOnt\BindingDifferentiatie\BindingDifferentiatie\obj\Debug\BindingDifferentiatie.pdb
